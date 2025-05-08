@@ -6,9 +6,9 @@ before running make a file named .env and add the next three lines to it
 <br><br><br>
 
 
-AI_API_KEY= your api key
-NEWS = your api key
-Weather = your api key
+AI_API_KEY= your api key<br>
+NEWS = your api key<br>
+Weather = your api key<br>
 <br><br><br>
 
 
