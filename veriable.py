@@ -21,3 +21,6 @@ songs = {
 ai_api =os.getenv("AI_API_KEY")
 news_api = os.getenv("NEWS")
 weather_api = os.getenv("Weather")
+
+
+
